@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPIkz+loZzZi5EDceqdnIz2C/zStgyghwA5gI8kuZAQrT/wCvSOeGR7tujr60zh1Fnk8tBL/KRk1yiJMAonwsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeff1\\source\\repos\\OCR Tesseract\\OCR Tesseract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeff1\\.nuget\\packages\\magick.net-q16-anycpu\\12.2.0\\magick.net-q16-anycpu.12.2.0.nupkg.sha512",
+    "C:\\Users\\jeff1\\.nuget\\packages\\magick.net.core\\12.2.0\\magick.net.core.12.2.0.nupkg.sha512",
+    "C:\\Users\\jeff1\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\jeff1\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

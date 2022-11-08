@@ -1,0 +1,30 @@
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.csproj.AssemblyReference.cache
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.AssemblyInfoInputs.cache
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.AssemblyInfo.cs
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.csproj.CoreCompileInputs.cache
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\x86\leptonica-1.80.0.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\x86\tesseract41.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\x64\leptonica-1.80.0.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\x64\tesseract41.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\OCR Tesseract.exe
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\OCR Tesseract.deps.json
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\OCR Tesseract.runtimeconfig.json
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\OCR Tesseract.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\OCR Tesseract.pdb
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\Tesseract.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.csproj.CopyComplete
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\refint\OCR Tesseract.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.pdb
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\OCR Tesseract.genruntimeconfig.cache
+C:\Users\jeff1\source\repos\OCR Tesseract\obj\Debug\net6.0\ref\OCR Tesseract.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\Magick.NET.Core.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\jeff1\source\repos\OCR Tesseract\bin\Debug\net6.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
